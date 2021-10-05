@@ -1,0 +1,1 @@
+echo "#DNK_PHP"
